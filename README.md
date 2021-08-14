@@ -38,7 +38,7 @@ lower tempatures W.Avy may want to figure out a way to supplement income during 
 
 - Based on the anaylsis above, the weather does not change significantly from June to Decemeber.
 
- Following two additional queries are helpful to see how much rain they get in June and in Decemember:
+-  Following two additional queries are helpful to see how much rain they get in June and in Decemember:
 
 ![June_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/June_presc.PNG?raw=true)
 ![Dec_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/Dec_presc.PNG?raw=true)
