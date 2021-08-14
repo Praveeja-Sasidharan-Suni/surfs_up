@@ -30,17 +30,17 @@ Based on  the two tables above I was able to gather the key differences as follo
 
 ## Summary
 
--Looking at the completed analysis I think it would be a great idea to open up a surf shop in Oahu. Realizing the traffic may be a little lower in December due to the 
+- Looking at the completed analysis I think it would be a great idea to open up a surf shop in Oahu. Realizing the traffic may be a little lower in December due to the 
 lower tempatures W.Avy may want to figure out a way to supplement income during that month.
 
--Tourism in Hawaii is very important and the businesses really depends on it .According to state government data, there were over 9.4 million visitors to the Hawaiian
+- Tourism in Hawaii is very important and the businesses really depends on it .According to state government data, there were over 9.4 million visitors to the Hawaiian
  Islands with expenditures of over $16 billion in 2017 alone.
 
--Based on the anaylsis above, the weather does not change significantly from June to Decemeber.
+- Based on the anaylsis above, the weather does not change significantly from June to Decemeber.
 
--Following two additional queries are helpful to see how much rain they get in June and in Decemember:
+ Following two additional queries are helpful to see how much rain they get in June and in Decemember:
 
-!June_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/June_presc.PNG?raw=true)
+![June_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/June_presc.PNG?raw=true)
 ![Dec_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/Dec_presc.PNG?raw=true)
 
 It is clear that Oahu, Hawaii in December is colder and rains more than in June and, therefore, one could expect a little slow month, or people may not spend their time 
