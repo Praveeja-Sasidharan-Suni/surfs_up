@@ -6,6 +6,11 @@
 
 The purpose of this analysis is to provide W.Avy insight into the weather patterns in Oahu. He is interested in opening up a surf shop and wants to analyze the data to see if it would
  make sense opening up a shop in Oahu. 
+ 
+## Resources 
+
+* Data File: `hawaii.sqlite`
+* Software:  Python 3.7, Visual Studio Code 1.50.0, Anaconda 4.8.5, Jupyter Notebook 6.1.4, Pandas, Numpy, Sqlalchemy. 
 
 ## Results
 
@@ -26,21 +31,20 @@ Based on  the two tables above I was able to gather the key differences as follo
 
 ## Summary
 
-*Looking at the completed analysis I think it would be a great idea to open up a surf shop in Oahu. Realizing the traffic may be a little lower in December due to the 
-lower tempatures W.Avy may want to figure out a way to supplement income during that month.*
+-Looking at the completed analysis I think it would be a great idea to open up a surf shop in Oahu. Realizing the traffic may be a little lower in December due to the 
+lower tempatures W.Avy may want to figure out a way to supplement income during that month.
 
-*Tourism in Hawaii is very important and the businesses really depends on it .According to state government data, there were over 9.4 million visitors to the Hawaiian
- Islands with expenditures of over $16 billion in 2017 alone.*
+-Tourism in Hawaii is very important and the businesses really depends on it .According to state government data, there were over 9.4 million visitors to the Hawaiian
+ Islands with expenditures of over $16 billion in 2017 alone.
 
-*Based on the anaylsis above, the weather does not change significantly from June to Decemeber.*
+-Based on the anaylsis above, the weather does not change significantly from June to Decemeber.
 
+-Following two additional queries are helpful to see how much rain they get in June and in Decemember:
 
-*Folloing two additional queries are helpful to see how much rain they get in June and in Decemember:*
+!June_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/June_presc.PNG?raw=true)
+![Dec_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/Dec_presc.PNG?raw=true)
 
-[June_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/June_presc.PNG?raw=true)
-[Dec_presc.PNG](https://github.com/Praveeja-Sasidharan-Suni/surfs_up/blob/main/Images/Dec_presc.PNG?raw=true)
-
-*It is clear that Oahu, Hawaii in December is colder and rains more than in June and, therefore, one could expect a little slow month, or people may not spend their time 
+It is clear that Oahu, Hawaii in December is colder and rains more than in June and, therefore, one could expect a little slow month, or people may not spend their time 
 outside and decide to spend more time in store getting ice cream or shopping. 
 However, the data is showing that the differences (whether the temperature or the amount of rain) between June and December are not huge, which makes this business 
 proposal more appealing. 
