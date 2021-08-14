@@ -4,8 +4,7 @@
 
 ## Overview
 
-The purpose of this analysis is to provide W.Avy insight into the weather patterns in Oahu. He is interested in opening up a surf shop and wants to analyze the data to see if it would
- make sense opening up a shop in Oahu. 
+The purpose of this analysis is to provide W.Avy insight into the weather patterns in Oahu. He wants the temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. 
  
 ## Resources 
 
